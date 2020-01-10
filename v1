@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <style>
+ 
+  #productNames {
+  width: 150px;
+  height: 400px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+
+  #quanitity{
+  text-align: center;
+  margin-top: 1px;
+
+  
+  </style>
+  </head>
+  
+  <body>
+<div = id ="productNames">
+  <h4> Product Name </h4>
+  
+  <h1>Product #1 </h1>
+  <h1>Product #2 </h1>
+  <h1>Product #3 </h1>
+</div>
+
+<div = id = "quanitity">
+  <p> Quanitity </P>
+
+
+</div>
+  
+
+</body>
+</html> 
