@@ -28,7 +28,7 @@
   <h1>Product #3 </h1>
 </div>
 
-<div = id = "quanitity">
+<div = id = "quanitity">    <!-- How do I get the quntitiy at the top pf the middle of the page will need text on the right of it and fill in boxes below-->
   <p> Quanitity </P>
 
 
